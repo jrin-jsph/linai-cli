@@ -1,0 +1,30 @@
+{
+  "ai": {
+    "provider": "openai",
+    "model": "gpt-4o",
+    "fallbackProviders": [],
+    "geminiModel": "gemini-1.5-flash",
+    "ollamaModel": "llama3",
+    "anthropicModel": "claude-3-5-sonnet-20241022",
+    "temperature": 0.2
+  },
+  "safety": {
+    "level": "strict",
+    "requireConfirmationAbove": 70,
+    "blockAbove": 95
+  },
+  "execution": {
+    "dryRunByDefault": false,
+    "timeout": 30000,
+    "explain": true,
+    "maxRetries": 2
+  },
+  "learning": {
+    "enabled": true,
+    "maxHistoryEntries": 1000
+  },
+  "plugins": {
+    "directory": null,
+    "autoLoad": true
+  }
+}

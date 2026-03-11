@@ -1,0 +1,7 @@
+node_modules/
+.env
+config/user.json
+data/history.json
+data/corrections.json
+*.log
+.DS_Store

@@ -1,0 +1,10 @@
+{
+  "name": "weather-plugin",
+  "version": "1.0.0",
+  "description": "Adds natural language weather support",
+  "author": "LinAI",
+  "hooks": [
+    "intent-transform",
+    "custom-command"
+  ]
+}
