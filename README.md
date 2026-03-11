@@ -2,11 +2,6 @@
 
 > **Natural Language → Linux Terminal** — A high-performance, AI-native terminal assistant with a Claude Code-inspired aesthetic.
 
-```
-linai> create folder project, then list all files larger than 10MB
-# → [Step 1/2] mkdir project
-# → [Step 2/2] find . -maxdepth 1 -size +10M
-```
 
 <div align="center">
   <img src="./docs/assets/shell-banner.png" alt="LinAI Interactive Shell Banner" width="700">
