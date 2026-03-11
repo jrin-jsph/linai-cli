@@ -25,7 +25,7 @@ LinAI features a polished, high-contrast terminal UI designed for clarity and sa
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/linai-cli.git
+git clone https://github.com/jrin-jsph/linai-cli.git
 cd linai-cli
 
 # Install dependencies
